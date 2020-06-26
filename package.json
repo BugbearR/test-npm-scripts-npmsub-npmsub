@@ -1,6 +1,6 @@
 {
-  "name": "@bugbearr/test-npm-scripts-sub",
-  "version": "0.0.5",
+  "name": "@bugbearr/test-npm-scripts-npmsub-npmsub",
+  "version": "0.0.6",
   "description": "Test npm-scripts npmsub-npmsub module",
   "main": "index.js",
   "repository": "https://github.com/BugbearR/test-npm-scripts-npmsub-npmsub",
