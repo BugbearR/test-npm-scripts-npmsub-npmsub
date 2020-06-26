@@ -1,9 +1,13 @@
-// console.log("gitsub-gitsub");
+
+function getLoaded() {
+    return [ "npmsub-npmsub" ];
+}
 
 function getMyName() {
-    return "gitsub-gitsub";
+    return "npmsub-npmsub";
 }
 
 module.exports = {
-    "getMyName": getMyName
+    "getMyName": getMyName,
+    "getLoaded": getLoaded
 }
