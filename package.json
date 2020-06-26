@@ -6,6 +6,7 @@
   "repository": "https://github.com/github:BugbearR/test-npm-scripts-npmsub-npmsub",
   "author": "BugbearR",
   "license": "CC0-1.0",
+  "publishConfig": "public",
   "scripts": {
     "prepublish": "echo ### npmsub-npmsub prepublish ###",
     "prepare": "echo ### npmsub-npmsub prepare ###",
